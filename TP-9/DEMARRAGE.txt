@@ -1,0 +1,15 @@
+TP 9 — Application météo Vue.js
+
+1. Ouvrir le dossier TP-9 dans VS Code.
+2. Ouvrir un terminal dans TP-9.
+3. Lancer : npm install
+4. Lancer : npm run dev
+5. Ouvrir l'adresse locale indiquée, puis rechercher Safi.
+
+Le fichier .env est deja configure avec la cle fournie.
+Ne publiez PAS le fichier .env sur GitHub.
+Le fichier .gitignore le protege lors de git add normal.
+Si la cle renvoie 401, elle peut ne pas etre active ou doit etre regeneree.
+
+Remarque : une cle VITE_ utilisee dans le navigateur est visible dans
+les requetes reseau. Envisagez de renouveler cette cle si elle a ete partagee.
